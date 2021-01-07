@@ -4,5 +4,5 @@ This is a hands-on project from the Udemy course - [The Complete Android 10 & Ko
 
 # Demo
 <div align="center">
-  <img src="demo/demo.gif" />
+  <img src="Demo/demo.gif" />
 </div>
